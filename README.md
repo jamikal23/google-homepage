@@ -1,0 +1,1 @@
+This is my attmept at recreating the Google homepage (as of 10/27/16). It's not perfect by any means, but I don't think it looks too bad. I'm sure there's MANY improvements that could be made, but for now, I'm satisfied. 
